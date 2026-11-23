@@ -1,0 +1,6 @@
+{
+  "name": "FIXNOW",
+  "description": "Trusted local home repair services connecting homeowners with verified technicians for plumbing, electrical, and appliance repairs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
